@@ -1,0 +1,65 @@
+*{
+  margin:0;
+  padding:0;
+}
+html{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  color: #ffffff;
+  text-rendering:optmizelegibility; 
+}
+
+header{ background-image: linear-gradient(rgba(0, 0, 0, 0.664),rgba(0, 0, 0, 0.788)
+  ), url(images/blackslant.JPG);
+  background-size: cover;height: 150vh}
+
+nav{margin-left:87.8%}
+
+  #nav1 {color:black; font-size:100%; padding:1px 10px}
+  #nav2{color:black; font-size:100%; padding:1px 10px}
+  
+ #nav1:hover{color:white}
+#nav1:active{color:white; stroke: brown}
+#nav2:hover{color:white}
+#nav2:active{color:white; stroke:brown}
+
+  .navbar {background-color:rgb(148, 69, 108)}
+
+  .social-media{padding:5px}
+
+#centrallogo{height:450px; width:450px;
+  padding:0; margin-left:35%; margin-right:35%}
+
+#motto{text-align: center;
+  padding: 0; font-size:150%; color:white;
+}
+
+#sidebar{position: fixed}
+
+h1{font-size:30%; color:white}
+
+.about{font-size:100%;color:white;
+text-align:justify; height:20%;
+background-color: rgba(255, 0, 157, 0.644);
+}
+
+h1 {font-size:150%; Color:white;
+text-align:center;}
+
+.about {font-size:150%; Color:white;
+  text-align:center;}
+
+.about:hover{background-color:orange;
+transition-duration: 0.5s}
+
+.container1{ margin-top:10%;margin-left: 13%;}
+.container2, .column, .sidebar{ margin-bottom:-100%; float: left; }
+.container3{ margin-top:5%;margin-left:34%;}
+.container4{ margin-top:2%;margin-left:0%;}
+
+#socials{margin-bottom:90%;
+float:left; background-color: lawngreen}
+
+.copyright{ font-family: 'Times New Roman', 
+  Times, serif; font-size:5px; 
+  color: black}
+
+  #h3{ Margin-left: -50%; color: black}
